@@ -67,4 +67,4 @@ MongoDB
 EJS 
 
 HTML5 & CSS3`
-<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/cd3c3ebc-5705-4430-8d80-36bde4794e3e" />
+<img width="2559" height="1323" alt="image" src="https://github.com/user-attachments/assets/8b3a0186-c0f3-4f85-b3c0-658e804757f8" />
